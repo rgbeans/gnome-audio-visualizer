@@ -1,0 +1,8 @@
+{
+  "uuid": "audioviz@deanp",
+  "name": "Audio Visualizer",
+  "description": "Live bars or waveform for the current audio output in the top bar, with a style picker in Quick Settings.",
+  "url": "https://github.com/rgbeans/gnome-audio-visualizer",
+  "shell-version": ["50"],
+  "version": 3
+}
