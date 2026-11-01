@@ -8,6 +8,8 @@ The bars are a faithful port of the player-bar spectrum from
 by Winamp's 512-sample Hann-window FFT, with translucent columns, soft glow,
 lingering peak caps, and a bass pulse. A waveform mode uses the same capture.
 
+![Audio Visualizer in the GNOME top panel](preview.png)
+
 ## Features
 
 - Two modes: **Bars** and **Waveform**, plus **Off**
